@@ -1,0 +1,9 @@
+# Mac OS X files
+.DS_Store
+
+# Jetbrains IDE
+.idea/
+
+# virtualenv
+venv/
+
